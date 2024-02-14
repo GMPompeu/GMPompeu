@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, sejam bem vindos! 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GMPompeu&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMPompeu&hide_progress=true&theme=dark)
 
-<!--
-**GMPompeu/GMPompeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline-block; background-color: black">
+  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" style="width:50px">
+  <img src="https://github.com/GMPompeu/GMPompeu/assets/132175081/08708871-6064-458b-9d09-6e6aa7fd16bd" style="width:50px"> 
+  <img src="https://github.com/GMPompeu/GMPompeu/assets/132175081/6545c25d-dcd8-4c9c-9b49-962be18314f2" style="width:50px">
+  <img src="https://github.com/GMPompeu/GMPompeu/assets/132175081/d41895d0-7d25-4d25-8e3d-d407758d0c51" style="width:50px">
+  <img src="https://github.com/GMPompeu/GMPompeu/assets/132175081/1650afe1-2718-4a87-836f-0aa3ef8c1f2b" style="width:50px">
+  <img src="https://github.com/GMPompeu/GMPompeu/assets/132175081/722fbdbc-e041-4dd7-a11d-3177ef77cb8e" style="width:50px">
+  <img src="https://github.com/GMPompeu/GMPompeu/assets/132175081/dd756fcb-4d08-45ec-9a64-09880d47b376" style="width:50px">
+  <img src="https://github.com/GMPompeu/GMPompeu/assets/132175081/33eec599-7dde-439d-948a-4a7030fd486d" style="width:50px">
+  <img src="https://github.com/GMPompeu/GMPompeu/assets/132175081/0e5b4a17-c09c-4582-a064-28f2f585cd7e" style="width:50px">
+</div>
