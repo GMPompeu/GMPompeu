@@ -7,10 +7,6 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GMPompeu&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMPompeu&hide_progress=true&theme=dark)
-##
-
 <div>
   <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" style="width:40px">
   <img src="https://github.com/GMPompeu/GMPompeu/assets/132175081/08708871-6064-458b-9d09-6e6aa7fd16bd" style="width:40px"> 
@@ -22,3 +18,9 @@
   <img src="https://github.com/GMPompeu/GMPompeu/assets/132175081/33eec599-7dde-439d-948a-4a7030fd486d" style="width:40px">
   <img src="https://github.com/GMPompeu/GMPompeu/assets/132175081/0e5b4a17-c09c-4582-a064-28f2f585cd7e" style="width:40px">
 </div>
+
+
+##
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GMPompeu&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMPompeu&hide_progress=true&theme=dark)
