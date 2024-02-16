@@ -1,12 +1,13 @@
-### Olá, meu nome é Guilherme Pompeu, sejam bem vindos! 
+## Olá, meu nome é Guilherme Pompeu, sejam bem vindos! 
 
+Contato:
 <div>
   <a href="mailto:gui.pompeu.mascarenhas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/guilherme-pompeu-mascarenhas-03770523a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 ##
-
+### Linguagens e Tecnologias:
 <div>
   <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" style="width:40px">
   <img src="https://github.com/GMPompeu/GMPompeu/assets/132175081/08708871-6064-458b-9d09-6e6aa7fd16bd" style="width:40px"> 
@@ -21,6 +22,4 @@
 
 
 ##
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GMPompeu&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMPompeu&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMPompeu&layout=compact)
